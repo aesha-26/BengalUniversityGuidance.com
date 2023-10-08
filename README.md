@@ -29,6 +29,16 @@ HTML: Contains the website's structure and content.
 CSS: Styling is applied using embedded CSS in the HTML file.
 
 JavaScript: The project includes JavaScript for animations, responsive design, and interactivity.
+## 📝 Contributors
+This project was brought to life with the help of these amazing contributors:
+>
+ 1.*Akash Mondal(@Akash-9007)*
+   > 
+ 2.*Aesha Roy(@aesha-26)*
+   > 
+ 3.*Suparna Mukhopadhyay(@Suparnamukhopadhyay)*
+   >
+ 4.*Susmita Hazra(@susmita2003github)*
 
 📞 Contact Us
 If you have any questions or feedback, feel free to reach out to us at bengal.university@edu.com. We'd love to hear from you!
